@@ -1,0 +1,78 @@
+name: 香港深圳岗位日报
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '**.py'
+      - 'requirements.txt'
+      - '.github/workflows/daily.yml'
+  schedule:
+    # 每天北京时间 09:00 运行（UTC 01:00）
+    # GitHub cron 可能有几分钟延迟，属正常现象
+    - cron: '0 1 * * *'
+  workflow_dispatch:  # 支持手动触发，方便随时跑一次
+
+permissions:
+  contents: write  # 需要写权限来 commit 简报和数据库
+
+concurrency:
+  group: job-catcher-daily
+  cancel-in-progress: false
+
+jobs:
+  daily-scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    env:
+      TZ: Asia/Hong_Kong
+      PYTHONUTF8: '1'
+    steps:
+      - name: 检出代码
+        uses: actions/checkout@v4
+
+      - name: 安装 Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: pip
+
+      - name: 安装依赖
+        run: pip install -r requirements.txt
+
+      - name: 验证城市过滤与新增比对
+        run: python -m unittest discover -s tests -v
+
+      - name: 运行抓取
+        env:
+          PUSH_KEY: ${{ secrets.PUSH_KEY }}
+          WECOM_KEY: ${{ secrets.WECOM_KEY }}
+        run: |
+          python main.py --strict
+
+      - name: 写入 Actions 运行摘要
+        if: always()
+        run: |
+          TODAY=$(date +%Y-%m-%d)
+          if [ -f "reports/${TODAY}.md" ]; then
+            cat "reports/${TODAY}.md" >> $GITHUB_STEP_SUMMARY
+          else
+            echo "今日简报未生成，请检查运行日志" >> $GITHUB_STEP_SUMMARY
+          fi
+
+      - name: 提交简报与数据库
+        if: always()
+        run: |
+          git config user.name "campus-radar-bot"
+          git config user.email "bot@campus-radar.local"
+          if [ ! -f data/jobs.db ] || [ ! -f reports/latest.json ]; then
+            echo "本次未完成抓取，不提交历史文件"
+            exit 0
+          fi
+          git add reports/ data/jobs.db
+          if git diff --staged --quiet; then
+            echo "今日无变化，无需提交"
+          else
+            git commit -m "📰 秋招雷达日报 $(date +%Y-%m-%d)"
+            git push
+          fi

@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.DS_Store
+.venv/
+.env
+.env.*
+!.env.example
+data/applications.db*
+reports/投递追踪表.xlsx
+.local/
