@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-08",
+  "initialized": true,
+  "target_cities": [
+    "香港",
+    "深圳"
+  ],
+  "filter_by_keywords": false,
+  "sources": {
+    "京东": 126,
+    "快手": 267,
+    "小红书": 197,
+    "拼多多": 10,
+    "淘宝": 34,
+    "offerstar": 20
+  },
+  "errors": {},
+  "fetched": 654,
+  "matching": 415,
+  "new_matching": 0
+}
