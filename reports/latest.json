@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-20",
+  "date": "2026-09-21",
   "initialized": false,
   "target_cities": [
     "香港",
@@ -8,14 +8,14 @@
   "filter_by_keywords": false,
   "sources": {
     "京东": 125,
-    "快手": 269,
-    "小红书": 223,
+    "快手": 275,
+    "小红书": 225,
     "拼多多": 10,
-    "淘宝": 34,
+    "淘宝": 33,
     "offerstar": 20
   },
   "errors": {},
-  "fetched": 681,
-  "matching": 420,
-  "new_matching": 5
+  "fetched": 688,
+  "matching": 424,
+  "new_matching": 7
 }
