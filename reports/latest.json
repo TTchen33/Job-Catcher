@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-29",
+  "date": "2026-09-30",
   "initialized": false,
   "target_cities": [
     "香港",
@@ -16,6 +16,6 @@
   },
   "errors": {},
   "fetched": 693,
-  "matching": 428,
+  "matching": 429,
   "new_matching": 5
 }
