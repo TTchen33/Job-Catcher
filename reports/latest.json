@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-04",
+  "date": "2026-10-05",
   "initialized": false,
   "target_cities": [
     "香港",
@@ -9,13 +9,15 @@
   "sources": {
     "京东": 124,
     "快手": 279,
-    "小红书": 227,
+    "小红书": 0,
     "拼多多": 10,
     "淘宝": 33,
     "offerstar": 20
   },
-  "errors": {},
-  "fetched": 693,
-  "matching": 429,
-  "new_matching": 0
+  "errors": {
+    "小红书": "ConnectionError: HTTPSConnectionPool(host='job.xiaohongshu.com', port=443): Read timed out."
+  },
+  "fetched": 466,
+  "matching": 412,
+  "new_matching": 4
 }
