@@ -1,6 +1,6 @@
-# 📋 秋招雷达日报 · 2026-10-11
+# 📋 秋招雷达日报 · 2026-10-12
 
-> 自动抓取于 2026-10-11 14:37 ｜ 关注方向：不限岗位方向 ｜ 目标城市：香港、深圳
+> 自动抓取于 2026-10-12 14:45 ｜ 关注方向：不限岗位方向 ｜ 目标城市：香港、深圳
 
 > 地点为空、全国或多地的岗位也会保留，需在官网确认是否开放香港或深圳。
 
@@ -9,44 +9,15 @@
 | 公司 | 抓取岗位总数 | 命中方向 | 今日新增 |
 |------|------------|---------|---------|
 | 京东 | 124 | 124 | - |
-| 快手 | 279 | 279 | 2 |
+| 快手 | 279 | 279 | - |
 | 小红书 | 226 | 16 | - |
 | 拼多多 | 10 | 5 | - |
 | 淘宝 | 0 | 0 | - |
-| offerstar | 20 | 4 | 4 |
+| offerstar | 20 | 4 | - |
 
 ## 🆕 今日新增岗位
 
-### 快手
-
-| 岗位名称 | 类别 | 地点 | 发布时间 | 标签 | 链接 |
-|---------|------|------|---------|------|------|
-| 网络传输策略推荐算法工程师 | 技术 | - | - | 全职 | [查看](https://campus.kuaishou.cn/recruit/campus/e/#/campus/jobs?recruitSubProjectCodes=20271779425607) |
-| AI美学工程师 | 技术 | - | - | 全职 | [查看](https://campus.kuaishou.cn/recruit/campus/e/#/campus/jobs?recruitSubProjectCodes=20271779425607) |
-
-### offerstar·中国信达
-
-| 岗位名称 | 类别 | 地点 | 发布时间 | 标签 | 链接 |
-|---------|------|------|---------|------|------|
-| 中国信达2027年度校园招聘 | - | 全国 | 10-11new | 聚合 | [查看](https://mp.weixin.qq.com/s/zuk4sRupV-csJZWdTL6oaw) |
-
-### offerstar·工业富联
-
-| 岗位名称 | 类别 | 地点 | 发布时间 | 标签 | 链接 |
-|---------|------|------|---------|------|------|
-| 工业富联CNSBG事业群2027届校园招聘重磅开启！ | 产品 | 深圳 | 10-11new | 聚合 | [查看](https://mp.weixin.qq.com/s/M6G15Z6sjIufVxqt40J9nQ) |
-
-### offerstar·明阳电路
-
-| 岗位名称 | 类别 | 地点 | 发布时间 | 标签 | 链接 |
-|---------|------|------|---------|------|------|
-| 明阳电路2027全球校园招聘正式启动 | - | 九江深圳+1 | 10-11new | 聚合 | [查看](https://mp.weixin.qq.com/s/jW0EFufNSROVz9EEh-w8UQ) |
-
-### offerstar·迈维代谢
-
-| 岗位名称 | 类别 | 地点 | 发布时间 | 标签 | 链接 |
-|---------|------|------|---------|------|------|
-| 迈维代谢2027届校招正式启动！ | - | 武汉全国+1 | 10-11new | 聚合 | [查看](https://mp.weixin.qq.com/s/rO4Oy2B24e84ifaiENsq9g) |
+本次成功抓取的来源中暂无新增目标岗位。首次运行仅建立基线；之后的检查会列出新发现的岗位。
 
 ## 📌 本次抓取到的存量岗位（不限岗位方向）
 
@@ -202,6 +173,8 @@
 - 数据PDE工程师-数据产品方向 ｜ 产品、技术 ｜  ｜  `全职` [查看](https://campus.kuaishou.cn/recruit/campus/e/#/campus/jobs?recruitSubProjectCodes=20271779425607)
 - 数据FDE工程师-数据研发方向 ｜ 技术 ｜  ｜  `全职` [查看](https://campus.kuaishou.cn/recruit/campus/e/#/campus/jobs?recruitSubProjectCodes=20271779425607)
 - 内容运营 ｜ 运营 ｜  ｜  `全职` [查看](https://campus.kuaishou.cn/recruit/campus/e/#/campus/jobs?recruitSubProjectCodes=20271779425607)
+- 网络传输策略推荐算法工程师 ｜ 技术 ｜  ｜  `全职` [查看](https://campus.kuaishou.cn/recruit/campus/e/#/campus/jobs?recruitSubProjectCodes=20271779425607)
+- AI美学工程师 ｜ 技术 ｜  ｜  `全职` [查看](https://campus.kuaishou.cn/recruit/campus/e/#/campus/jobs?recruitSubProjectCodes=20271779425607)
 - 视频编解码算法工程师 ｜ 技术 ｜  ｜  `全职` [查看](https://campus.kuaishou.cn/recruit/campus/e/#/campus/jobs?recruitSubProjectCodes=20271779425607)
 - 【快Star】音视频多模态算法策略研究员 ｜ 技术 ｜  ｜  `快Star/全职` [查看](https://campus.kuaishou.cn/recruit/campus/e/#/campus/jobs?recruitSubProjectCodes=20271779425607)
 - 安全工程师-Java开发方向 ｜ 技术 ｜  ｜  `全职` [查看](https://campus.kuaishou.cn/recruit/campus/e/#/campus/jobs?recruitSubProjectCodes=20271779425607)
@@ -485,6 +458,22 @@
 - 仓配物流管培生（区域业务） ｜ 区域业务 ｜ 全国多省区 ｜ 2026-09-14  [查看](https://careers.pddglobalhr.com/campus/grad/position/detail?id=b168e225-3034-4cac-8e3a-ea4aff372a67)
 - 质控管培生（区域业务） ｜ 区域业务 ｜ 全国多省区 ｜ 2026-09-14  [查看](https://careers.pddglobalhr.com/campus/grad/position/detail?id=1502839e-a636-46a8-856f-071c2542f3b7)
 - HR培训生（区域业务） ｜ 区域业务 ｜ 全国多省区 ｜ 2026-09-14  [查看](https://careers.pddglobalhr.com/campus/grad/position/detail?id=64fe882f-b4b6-4b8c-9931-7b336b18e818)
+
+**offerstar·中国信达**
+
+- 中国信达2027年度校园招聘 ｜  ｜ 全国 ｜ 10-11 `聚合` [查看](https://mp.weixin.qq.com/s/zuk4sRupV-csJZWdTL6oaw)
+
+**offerstar·工业富联**
+
+- 工业富联CNSBG事业群2027届校园招聘重磅开启！ ｜ 产品 ｜ 深圳 ｜ 10-11 `聚合` [查看](https://mp.weixin.qq.com/s/M6G15Z6sjIufVxqt40J9nQ)
+
+**offerstar·明阳电路**
+
+- 明阳电路2027全球校园招聘正式启动 ｜  ｜ 九江深圳+1 ｜ 10-11 `聚合` [查看](https://mp.weixin.qq.com/s/jW0EFufNSROVz9EEh-w8UQ)
+
+**offerstar·迈维代谢**
+
+- 迈维代谢2027届校招正式启动！ ｜  ｜ 武汉全国+1 ｜ 10-11 `聚合` [查看](https://mp.weixin.qq.com/s/rO4Oy2B24e84ifaiENsq9g)
 
 </details>
 
