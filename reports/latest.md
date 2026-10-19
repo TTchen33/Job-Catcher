@@ -1,6 +1,6 @@
-# 📋 秋招雷达日报 · 2026-10-18
+# 📋 秋招雷达日报 · 2026-10-19
 
-> 自动抓取于 2026-10-18 13:16 ｜ 关注方向：不限岗位方向 ｜ 目标城市：香港、深圳
+> 自动抓取于 2026-10-19 13:28 ｜ 关注方向：不限岗位方向 ｜ 目标城市：香港、深圳
 
 > 地点为空、全国或多地的岗位也会保留，需在官网确认是否开放香港或深圳。
 
@@ -9,31 +9,15 @@
 | 公司 | 抓取岗位总数 | 命中方向 | 今日新增 |
 |------|------------|---------|---------|
 | 京东 | 125 | 125 | - |
-| 快手 | 268 | 268 | - |
+| 快手 | 267 | 267 | - |
 | 小红书 | 220 | 16 | - |
 | 拼多多 | 10 | 5 | - |
 | 淘宝 | 0 | 0 | - |
-| offerstar | 20 | 3 | 3 |
+| offerstar | 20 | 3 | - |
 
 ## 🆕 今日新增岗位
 
-### offerstar·华润燃气
-
-| 岗位名称 | 类别 | 地点 | 发布时间 | 标签 | 链接 |
-|---------|------|------|---------|------|------|
-| 华润燃气2027届校园招聘正式启动！ | - | 全国 | 10-18new | 聚合 | [查看](https://mp.weixin.qq.com/s/3n-R3rvbmECtz1EVhvmB1w) |
-
-### offerstar·圣湘生物
-
-| 岗位名称 | 类别 | 地点 | 发布时间 | 标签 | 链接 |
-|---------|------|------|---------|------|------|
-| 圣湘生物2027届校园招聘正式启动 | 产品、运营 | 全国上海 | 10-18new | 聚合 | [查看](https://mp.weixin.qq.com/s/YwT-BXKtK_geV8pE_jzdzQ) |
-
-### offerstar·赛陆医疗
-
-| 岗位名称 | 类别 | 地点 | 发布时间 | 标签 | 链接 |
-|---------|------|------|---------|------|------|
-| 赛陆2027届校园招聘行程发布！ | 产品 | 深圳 | 10-18new | 聚合 | [查看](https://mp.weixin.qq.com/s/tg3lsy5wd8A8l_Th-craiA) |
+本次成功抓取的来源中暂无新增目标岗位。首次运行仅建立基线；之后的检查会列出新发现的岗位。
 
 ## 📌 本次抓取到的存量岗位（不限岗位方向）
 
@@ -191,7 +175,6 @@
 - 数据FDE工程师-数据研发方向 ｜ 技术 ｜  ｜  `全职` [查看](https://campus.kuaishou.cn/recruit/campus/e/#/campus/jobs?recruitSubProjectCodes=20271779425607)
 - HR-BP类 ｜  ｜  ｜  `全职` [查看](https://campus.kuaishou.cn/recruit/campus/e/#/campus/jobs?recruitSubProjectCodes=20271779425607)
 - 行业商家运营 ｜ 电商、运营 ｜  ｜  `全职` [查看](https://campus.kuaishou.cn/recruit/campus/e/#/campus/jobs?recruitSubProjectCodes=20271779425607)
-- 大模型应用算法工程师-电商方向 ｜ 电商、技术 ｜  ｜  `全职` [查看](https://campus.kuaishou.cn/recruit/campus/e/#/campus/jobs?recruitSubProjectCodes=20271779425607)
 - 多模态内容理解算法工程师 ｜ 技术 ｜  ｜  `全职` [查看](https://campus.kuaishou.cn/recruit/campus/e/#/campus/jobs?recruitSubProjectCodes=20271779425607)
 - 数据分析师-风控治理方向 ｜ 技术 ｜  ｜  `全职` [查看](https://campus.kuaishou.cn/recruit/campus/e/#/campus/jobs?recruitSubProjectCodes=20271779425607)
 - 智能Agent开发工程师-安全方向 ｜ 技术 ｜  ｜  `全职` [查看](https://campus.kuaishou.cn/recruit/campus/e/#/campus/jobs?recruitSubProjectCodes=20271779425607)
@@ -464,6 +447,18 @@
 - 仓配物流管培生（区域业务） ｜ 区域业务 ｜ 全国多省区 ｜ 2026-09-14  [查看](https://careers.pddglobalhr.com/campus/grad/position/detail?id=b168e225-3034-4cac-8e3a-ea4aff372a67)
 - 质控管培生（区域业务） ｜ 区域业务 ｜ 全国多省区 ｜ 2026-09-14  [查看](https://careers.pddglobalhr.com/campus/grad/position/detail?id=1502839e-a636-46a8-856f-071c2542f3b7)
 - HR培训生（区域业务） ｜ 区域业务 ｜ 全国多省区 ｜ 2026-09-14  [查看](https://careers.pddglobalhr.com/campus/grad/position/detail?id=64fe882f-b4b6-4b8c-9931-7b336b18e818)
+
+**offerstar·华润燃气**
+
+- 华润燃气2027届校园招聘正式启动！ ｜  ｜ 全国 ｜ 10-18 `聚合` [查看](https://mp.weixin.qq.com/s/3n-R3rvbmECtz1EVhvmB1w)
+
+**offerstar·圣湘生物**
+
+- 圣湘生物2027届校园招聘正式启动 ｜ 产品、运营 ｜ 全国上海 ｜ 10-18 `聚合` [查看](https://mp.weixin.qq.com/s/YwT-BXKtK_geV8pE_jzdzQ)
+
+**offerstar·赛陆医疗**
+
+- 赛陆2027届校园招聘行程发布！ ｜ 产品 ｜ 深圳 ｜ 10-18 `聚合` [查看](https://mp.weixin.qq.com/s/tg3lsy5wd8A8l_Th-craiA)
 
 </details>
 
