@@ -1,6 +1,6 @@
-# 📋 秋招雷达日报 · 2026-10-22
+# 📋 秋招雷达日报 · 2026-10-23
 
-> 自动抓取于 2026-10-22 13:35 ｜ 关注方向：不限岗位方向 ｜ 目标城市：香港、深圳
+> 自动抓取于 2026-10-23 13:34 ｜ 关注方向：不限岗位方向 ｜ 目标城市：香港、深圳
 
 > 地点为空、全国或多地的岗位也会保留，需在官网确认是否开放香港或深圳。
 
@@ -8,40 +8,39 @@
 
 | 公司 | 抓取岗位总数 | 命中方向 | 今日新增 |
 |------|------------|---------|---------|
-| 京东 | 125 | 125 | - |
-| 快手 | 262 | 262 | 3 |
-| 小红书 | 220 | 16 | - |
+| 京东 | 127 | 127 | 2 |
+| 快手 | 263 | 263 | 1 |
+| 小红书 | 216 | 16 | - |
 | 拼多多 | 10 | 5 | - |
 | 淘宝 | 0 | 0 | - |
-| offerstar | 20 | 3 | 3 |
+| offerstar | 20 | 2 | 2 |
 
 ## 🆕 今日新增岗位
+
+### 京东
+
+| 岗位名称 | 类别 | 地点 | 发布时间 | 标签 | 链接 |
+|---------|------|------|---------|------|------|
+| 服务咨询（听力师方向） | 一线专业方向 | - | 2026-10-22 | 一线专业方向 | [查看](https://campus.jd.com/#/jobs?reqId=2511) |
+| 采销（线下业态） | 采销 | - | 2026-08-17 | 一线销售方向 | [查看](https://campus.jd.com/#/jobs?reqId=2449) |
 
 ### 快手
 
 | 岗位名称 | 类别 | 地点 | 发布时间 | 标签 | 链接 |
 |---------|------|------|---------|------|------|
-| 游戏用户研究员 | - | - | - | 全职 | [查看](https://campus.kuaishou.cn/recruit/campus/e/#/campus/jobs?recruitSubProjectCodes=20271779425607) |
-| 平台产品经理-支付产品 | 产品 | - | - | 全职 | [查看](https://campus.kuaishou.cn/recruit/campus/e/#/campus/jobs?recruitSubProjectCodes=20271779425607) |
-| HR-人才培养与发展 | - | - | - | 全职 | [查看](https://campus.kuaishou.cn/recruit/campus/e/#/campus/jobs?recruitSubProjectCodes=20271779425607) |
+| UX设计师-企业产品方向 | 产品、设计 | - | - | 全职 | [查看](https://campus.kuaishou.cn/recruit/campus/e/#/campus/jobs?recruitSubProjectCodes=20271779425607) |
 
-### offerstar·修正药业集团
+### offerstar·埃谱科技
 
 | 岗位名称 | 类别 | 地点 | 发布时间 | 标签 | 链接 |
 |---------|------|------|---------|------|------|
-| 修正药业集团2027届校园招聘 | 产品 | 通化全国 | 10-22new | 聚合 | [查看](https://mp.weixin.qq.com/s/2as9T5zltSGKvvq2hZr6HA) |
+| 埃谱科技2027校园招聘启动 | - | 合肥深圳 | 10-23new | 聚合 | [查看](https://mp.weixin.qq.com/s/Bu2Fj1ugkzFjIZcdRKxCpw) |
 
-### offerstar·招商租赁
-
-| 岗位名称 | 类别 | 地点 | 发布时间 | 标签 | 链接 |
-|---------|------|------|---------|------|------|
-| 招商租赁2027届校园招聘正式启动！ | 电商 | 天津深圳+2 | 10-22new | 聚合 | [查看](https://mp.weixin.qq.com/s/B6yBlkBZo_4d2IkRoRIFWw) |
-
-### offerstar·达驰电气
+### offerstar·赤湾胜宝旺
 
 | 岗位名称 | 类别 | 地点 | 发布时间 | 标签 | 链接 |
 |---------|------|------|---------|------|------|
-| 达驰电气2027届校园招聘开始啦！ | 产品、运营 | 菏泽全国 | 10-22new | 聚合 | [查看](https://mp.weixin.qq.com/s/1fDqXk7H3700UogRT3L89w?scene=1) |
+| 2027年深圳赤湾胜宝旺工程有限公司校园招聘 | - | 深圳 | 10-23new | 聚合 | [查看](https://mp.weixin.qq.com/s/0cMsLDV3Raky2JEz0iFqzQ) |
 
 ## 📌 本次抓取到的存量岗位（不限岗位方向）
 
@@ -197,6 +196,14 @@
 - 数据分析师 ｜ 技术 ｜  ｜  `全职` [查看](https://campus.kuaishou.cn/recruit/campus/e/#/campus/jobs?recruitSubProjectCodes=20271779425607)
 - 数据PDE工程师-数据产品方向 ｜ 产品、技术 ｜  ｜  `全职` [查看](https://campus.kuaishou.cn/recruit/campus/e/#/campus/jobs?recruitSubProjectCodes=20271779425607)
 - 数据FDE工程师-数据研发方向 ｜ 技术 ｜  ｜  `全职` [查看](https://campus.kuaishou.cn/recruit/campus/e/#/campus/jobs?recruitSubProjectCodes=20271779425607)
+- Java开发工程师 ｜ 技术 ｜  ｜  `全职` [查看](https://campus.kuaishou.cn/recruit/campus/e/#/campus/jobs?recruitSubProjectCodes=20271779425607)
+- AI全栈开发工程师-数据平台 ｜ 技术 ｜  ｜  `全职` [查看](https://campus.kuaishou.cn/recruit/campus/e/#/campus/jobs?recruitSubProjectCodes=20271779425607)
+- 智能Agent开发工程师-安全方向 ｜ 技术 ｜  ｜  `全职` [查看](https://campus.kuaishou.cn/recruit/campus/e/#/campus/jobs?recruitSubProjectCodes=20271779425607)
+- 游戏数值策划 ｜  ｜  ｜  `全职` [查看](https://campus.kuaishou.cn/recruit/campus/e/#/campus/jobs?recruitSubProjectCodes=20271779425607)
+- 游戏运营 ｜ 运营 ｜  ｜  `全职` [查看](https://campus.kuaishou.cn/recruit/campus/e/#/campus/jobs?recruitSubProjectCodes=20271779425607)
+- 游戏用户研究员 ｜  ｜  ｜  `全职` [查看](https://campus.kuaishou.cn/recruit/campus/e/#/campus/jobs?recruitSubProjectCodes=20271779425607)
+- 平台产品经理-支付产品 ｜ 产品 ｜  ｜  `全职` [查看](https://campus.kuaishou.cn/recruit/campus/e/#/campus/jobs?recruitSubProjectCodes=20271779425607)
+- HR-人才培养与发展 ｜  ｜  ｜  `全职` [查看](https://campus.kuaishou.cn/recruit/campus/e/#/campus/jobs?recruitSubProjectCodes=20271779425607)
 - 行业商家运营 ｜ 电商、运营 ｜  ｜  `全职` [查看](https://campus.kuaishou.cn/recruit/campus/e/#/campus/jobs?recruitSubProjectCodes=20271779425607)
 - 平台治理专员 ｜  ｜  ｜  `全职` [查看](https://campus.kuaishou.cn/recruit/campus/e/#/campus/jobs?recruitSubProjectCodes=20271779425607)
 - 治理策略分析师 ｜  ｜  ｜  `全职` [查看](https://campus.kuaishou.cn/recruit/campus/e/#/campus/jobs?recruitSubProjectCodes=20271779425607)
@@ -222,7 +229,6 @@
 - HR-BP类 ｜  ｜  ｜  `全职` [查看](https://campus.kuaishou.cn/recruit/campus/e/#/campus/jobs?recruitSubProjectCodes=20271779425607)
 - 多模态内容理解算法工程师 ｜ 技术 ｜  ｜  `全职` [查看](https://campus.kuaishou.cn/recruit/campus/e/#/campus/jobs?recruitSubProjectCodes=20271779425607)
 - 数据分析师-风控治理方向 ｜ 技术 ｜  ｜  `全职` [查看](https://campus.kuaishou.cn/recruit/campus/e/#/campus/jobs?recruitSubProjectCodes=20271779425607)
-- 智能Agent开发工程师-安全方向 ｜ 技术 ｜  ｜  `全职` [查看](https://campus.kuaishou.cn/recruit/campus/e/#/campus/jobs?recruitSubProjectCodes=20271779425607)
 - 策略运营-电商行业 ｜ 电商、运营 ｜  ｜  `全职` [查看](https://campus.kuaishou.cn/recruit/campus/e/#/campus/jobs?recruitSubProjectCodes=20271779425607)
 - AI应用开发工程师 ｜ 技术 ｜  ｜  `全职` [查看](https://campus.kuaishou.cn/recruit/campus/e/#/campus/jobs?recruitSubProjectCodes=20271779425607)
 - 【快Star】用户画像算法工程师 ｜ 技术 ｜  ｜  `快Star/全职` [查看](https://campus.kuaishou.cn/recruit/campus/e/#/campus/jobs?recruitSubProjectCodes=20271779425607)
@@ -260,8 +266,6 @@
 - 视频编解码算法工程师 ｜ 技术 ｜  ｜  `全职` [查看](https://campus.kuaishou.cn/recruit/campus/e/#/campus/jobs?recruitSubProjectCodes=20271779425607)
 - 智能媒体处理研发工程师 ｜ 技术 ｜  ｜  `全职` [查看](https://campus.kuaishou.cn/recruit/campus/e/#/campus/jobs?recruitSubProjectCodes=20271779425607)
 - 采购专员 ｜ 电商 ｜  ｜  `全职` [查看](https://campus.kuaishou.cn/recruit/campus/e/#/campus/jobs?recruitSubProjectCodes=20271779425607)
-- 游戏数值策划 ｜  ｜  ｜  `全职` [查看](https://campus.kuaishou.cn/recruit/campus/e/#/campus/jobs?recruitSubProjectCodes=20271779425607)
-- AI全栈开发工程师-数据平台 ｜ 技术 ｜  ｜  `全职` [查看](https://campus.kuaishou.cn/recruit/campus/e/#/campus/jobs?recruitSubProjectCodes=20271779425607)
 - 数据采集工程师 ｜ 技术 ｜  ｜  `全职` [查看](https://campus.kuaishou.cn/recruit/campus/e/#/campus/jobs?recruitSubProjectCodes=20271779425607)
 - 网络传输策略推荐算法工程师 ｜ 技术 ｜  ｜  `全职` [查看](https://campus.kuaishou.cn/recruit/campus/e/#/campus/jobs?recruitSubProjectCodes=20271779425607)
 - AI美学工程师 ｜ 技术 ｜  ｜  `全职` [查看](https://campus.kuaishou.cn/recruit/campus/e/#/campus/jobs?recruitSubProjectCodes=20271779425607)
@@ -289,7 +293,6 @@
 - 创意设计师 ｜ 设计 ｜  ｜  `全职` [查看](https://campus.kuaishou.cn/recruit/campus/e/#/campus/jobs?recruitSubProjectCodes=20271779425607)
 - 平台产品经理-大模型AIGC ｜ 产品、技术 ｜  ｜  `全职` [查看](https://campus.kuaishou.cn/recruit/campus/e/#/campus/jobs?recruitSubProjectCodes=20271779425607)
 - 游戏投放优化师 ｜  ｜  ｜  `全职` [查看](https://campus.kuaishou.cn/recruit/campus/e/#/campus/jobs?recruitSubProjectCodes=20271779425607)
-- 游戏运营 ｜ 运营 ｜  ｜  `全职` [查看](https://campus.kuaishou.cn/recruit/campus/e/#/campus/jobs?recruitSubProjectCodes=20271779425607)
 - 【快Star】多模态内容理解算法工程师 ｜ 技术 ｜  ｜  `快Star/全职` [查看](https://campus.kuaishou.cn/recruit/campus/e/#/campus/jobs?recruitSubProjectCodes=20271779425607)
 - AIGC视觉生成算法工程师 ｜ 技术 ｜  ｜  `全职` [查看](https://campus.kuaishou.cn/recruit/campus/e/#/campus/jobs?recruitSubProjectCodes=20271779425607)
 - AI测试开发工程师 ｜ 技术 ｜  ｜  `全职` [查看](https://campus.kuaishou.cn/recruit/campus/e/#/campus/jobs?recruitSubProjectCodes=20271779425607)
@@ -345,7 +348,6 @@
 - 体验优化分析师 ｜  ｜  ｜  `全职` [查看](https://campus.kuaishou.cn/recruit/campus/e/#/campus/jobs?recruitSubProjectCodes=20271779425607)
 - 经营分析师—研发成本方向 ｜ 技术 ｜  ｜  `全职` [查看](https://campus.kuaishou.cn/recruit/campus/e/#/campus/jobs?recruitSubProjectCodes=20271779425607)
 - 推荐/广告/搜索引擎C++开发工程师 ｜ 技术 ｜  ｜  `全职` [查看](https://campus.kuaishou.cn/recruit/campus/e/#/campus/jobs?recruitSubProjectCodes=20271779425607)
-- Java开发工程师 ｜ 技术 ｜  ｜  `全职` [查看](https://campus.kuaishou.cn/recruit/campus/e/#/campus/jobs?recruitSubProjectCodes=20271779425607)
 - AI Agent算法工程师-智能创作 ｜ 技术 ｜  ｜  `全职` [查看](https://campus.kuaishou.cn/recruit/campus/e/#/campus/jobs?recruitSubProjectCodes=20271779425607)
 - 【快Star】AI Agent大模型算法工程师 ｜ 技术 ｜  ｜  `快Star/全职` [查看](https://campus.kuaishou.cn/recruit/campus/e/#/campus/jobs?recruitSubProjectCodes=20271779425607)
 - 基础大模型算法工程师-强化学习方向 ｜ 技术 ｜  ｜  `全职` [查看](https://campus.kuaishou.cn/recruit/campus/e/#/campus/jobs?recruitSubProjectCodes=20271779425607)
@@ -439,14 +441,14 @@
 
 **小红书**
 
+- 【2027校招】搜广推 × AI 应用工程师 ｜ 技术 ｜ 深圳市，北京市，上海市 ｜ 2026-10-23 `2027 校园招聘` [查看](https://job.xiaohongshu.com/campus/position)
+- 【2027校招】机器学习框架工程师-搜广推方向 ｜ 技术 ｜ 北京市，上海市，深圳市 ｜ 2026-10-23 `2027 校园招聘` [查看](https://job.xiaohongshu.com/campus/position)
+- 【2027校招】Product Engineer-产品工程师(AI全栈）-直播业务 ｜ 产品、技术 ｜ 深圳市，北京市，上海市 ｜ 2026-10-23 `2027 校园招聘` [查看](https://job.xiaohongshu.com/campus/position)
 - 【2027校招】Product Engineer-开发工程师-rednote国际化 ｜ 技术 ｜ 北京市，上海市，深圳市，新加坡 ｜ 2026-10-21 `2027 校园招聘` [查看](https://job.xiaohongshu.com/campus/position)
 - 【2027校招】小红书商业培训生 RED Business Trainee ｜  ｜ 上海市，北京市，深圳市，广州市 ｜ 2026-10-20 `2027 校园招聘` [查看](https://job.xiaohongshu.com/campus/position)
 - 【2027校招】社区搜索算法工程师 ｜ 技术 ｜ 北京市，上海市，深圳市 ｜ 2026-10-16 `2027 校园招聘` [查看](https://job.xiaohongshu.com/campus/position)
 - 【2027校招】社区推荐算法工程师 ｜ 技术 ｜ 北京市，上海市，深圳市 ｜ 2026-10-16 `2027 校园招聘` [查看](https://job.xiaohongshu.com/campus/position)
 - 【2027校招】媒体网络研发工程师-CDN方向 ｜ 技术 ｜ 北京市，深圳市 ｜ 2026-10-16 `2027 校园招聘` [查看](https://job.xiaohongshu.com/campus/position)
-- 【2027校招】搜广推 × AI 应用工程师 ｜ 技术 ｜ 深圳市，北京市，上海市 ｜ 2026-10-16 `2027 校园招聘` [查看](https://job.xiaohongshu.com/campus/position)
-- 【2027校招】机器学习框架工程师-搜广推方向 ｜ 技术 ｜ 北京市，上海市，深圳市 ｜ 2026-10-16 `2027 校园招聘` [查看](https://job.xiaohongshu.com/campus/position)
-- 【2027校招】Product Engineer-产品工程师(AI全栈）-直播业务 ｜ 产品、技术 ｜ 深圳市，北京市，上海市 ｜ 2026-10-16 `2027 校园招聘` [查看](https://job.xiaohongshu.com/campus/position)
 - 【REDstar】社区搜索算法工程师 ｜ 技术 ｜ 北京市，上海市，深圳市 ｜ 2026-10-16 `REDstar 顶尖人才计划` [查看](https://job.xiaohongshu.com/campus/position)
 - 【REDstar】社区推荐算法工程师 ｜ 技术 ｜ 北京市，上海市，深圳市 ｜ 2026-10-16 `REDstar 顶尖人才计划` [查看](https://job.xiaohongshu.com/campus/position)
 - 【REDstar】搜广推 × AI 应用工程师 ｜ 技术 ｜ 北京市，上海市，深圳市 ｜ 2026-10-16 `REDstar 顶尖人才计划` [查看](https://job.xiaohongshu.com/campus/position)
