@@ -1,6 +1,6 @@
-# 📋 秋招雷达日报 · 2026-10-31
+# 📋 秋招雷达日报 · 2026-11-01
 
-> 自动抓取于 2026-10-31 14:27 ｜ 关注方向：不限岗位方向 ｜ 目标城市：香港、深圳
+> 自动抓取于 2026-11-01 14:59 ｜ 关注方向：不限岗位方向 ｜ 目标城市：香港、深圳
 
 > 地点为空、全国或多地的岗位也会保留，需在官网确认是否开放香港或深圳。
 
@@ -13,39 +13,11 @@
 | 小红书 | 210 | 15 | - |
 | 拼多多 | 10 | 5 | - |
 | 淘宝 | 0 | 0 | - |
-| offerstar | 20 | 5 | 5 |
+| offerstar | 20 | 5 | - |
 
 ## 🆕 今日新增岗位
 
-### offerstar·vivo
-
-| 岗位名称 | 类别 | 地点 | 发布时间 | 标签 | 链接 |
-|---------|------|------|---------|------|------|
-| vivo2027届校园招聘设计专场来了！ | - | 东莞深圳 | 10-31new | 聚合 | [查看](https://mp.weixin.qq.com/s/KDL5idZkxTpLYENWug_KxQ) |
-
-### offerstar·中建安装东北公司
-
-| 岗位名称 | 类别 | 地点 | 发布时间 | 标签 | 链接 |
-|---------|------|------|---------|------|------|
-| 中建安装东北公司2027届校园招聘开始啦！ | - | 大连全国 | 10-31new | 聚合 | [查看](https://mp.weixin.qq.com/s/YtWkpkW_kNxwT_ocAHRc2g) |
-
-### offerstar·环波科技
-
-| 岗位名称 | 类别 | 地点 | 发布时间 | 标签 | 链接 |
-|---------|------|------|---------|------|------|
-| 环波科技2027届校园招聘 | - | 深圳 | 10-31new | 聚合 | [查看](https://mp.weixin.qq.com/s/Rvc1DfqeLZH9xiT8rtfINg) |
-
-### offerstar·维谛技术
-
-| 岗位名称 | 类别 | 地点 | 发布时间 | 标签 | 链接 |
-|---------|------|------|---------|------|------|
-| 维谛技术(Vertiv)2027届秋季校园招聘持续开放中 | - | 苏州深圳+5 | 10-31new | 聚合 | [查看](https://mp.weixin.qq.com/s/ceP6q9jS7H9pXu5Lx2-C1g) |
-
-### offerstar·锐澳酒业
-
-| 岗位名称 | 类别 | 地点 | 发布时间 | 标签 | 链接 |
-|---------|------|------|---------|------|------|
-| RIO2027管培生招募 | - | 全国 | 10-31new | 聚合 | [查看](https://mp.weixin.qq.com/s/ELZZ3391W_inddFkgB_lAQ) |
+本次成功抓取的来源中暂无新增目标岗位。首次运行仅建立基线；之后的检查会列出新发现的岗位。
 
 ## 📌 本次抓取到的存量岗位（不限岗位方向）
 
@@ -473,6 +445,26 @@
 - 仓配物流管培生（区域业务） ｜ 区域业务 ｜ 全国多省区 ｜ 2026-09-14  [查看](https://careers.pddglobalhr.com/campus/grad/position/detail?id=b168e225-3034-4cac-8e3a-ea4aff372a67)
 - 质控管培生（区域业务） ｜ 区域业务 ｜ 全国多省区 ｜ 2026-09-14  [查看](https://careers.pddglobalhr.com/campus/grad/position/detail?id=1502839e-a636-46a8-856f-071c2542f3b7)
 - HR培训生（区域业务） ｜ 区域业务 ｜ 全国多省区 ｜ 2026-09-14  [查看](https://careers.pddglobalhr.com/campus/grad/position/detail?id=64fe882f-b4b6-4b8c-9931-7b336b18e818)
+
+**offerstar·vivo**
+
+- vivo2027届校园招聘设计专场来了！ ｜  ｜ 东莞深圳 ｜ 10-31 `聚合` [查看](https://mp.weixin.qq.com/s/KDL5idZkxTpLYENWug_KxQ)
+
+**offerstar·中建安装东北公司**
+
+- 中建安装东北公司2027届校园招聘开始啦！ ｜  ｜ 大连全国 ｜ 10-31 `聚合` [查看](https://mp.weixin.qq.com/s/YtWkpkW_kNxwT_ocAHRc2g)
+
+**offerstar·环波科技**
+
+- 环波科技2027届校园招聘 ｜  ｜ 深圳 ｜ 10-31 `聚合` [查看](https://mp.weixin.qq.com/s/Rvc1DfqeLZH9xiT8rtfINg)
+
+**offerstar·维谛技术**
+
+- 维谛技术(Vertiv)2027届秋季校园招聘持续开放中 ｜  ｜ 苏州深圳+5 ｜ 10-31 `聚合` [查看](https://mp.weixin.qq.com/s/ceP6q9jS7H9pXu5Lx2-C1g)
+
+**offerstar·锐澳酒业**
+
+- RIO2027管培生招募 ｜  ｜ 全国 ｜ 10-31 `聚合` [查看](https://mp.weixin.qq.com/s/ELZZ3391W_inddFkgB_lAQ)
 
 </details>
 
