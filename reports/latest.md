@@ -1,6 +1,6 @@
-# 📋 秋招雷达日报 · 2026-11-02
+# 📋 秋招雷达日报 · 2026-11-03
 
-> 自动抓取于 2026-11-02 14:58 ｜ 关注方向：不限岗位方向 ｜ 目标城市：香港、深圳
+> 自动抓取于 2026-11-03 15:23 ｜ 关注方向：不限岗位方向 ｜ 目标城市：香港、深圳
 
 > 地点为空、全国或多地的岗位也会保留，需在官网确认是否开放香港或深圳。
 
@@ -10,14 +10,36 @@
 |------|------------|---------|---------|
 | 京东 | 132 | 132 | - |
 | 快手 | 259 | 259 | - |
-| 小红书 | 210 | 15 | - |
+| 小红书 | 208 | 15 | - |
 | 拼多多 | 10 | 5 | - |
 | 淘宝 | 0 | 0 | - |
-| offerstar | 20 | 5 | - |
+| offerstar | 20 | 4 | 4 |
 
 ## 🆕 今日新增岗位
 
-本次成功抓取的来源中暂无新增目标岗位。首次运行仅建立基线；之后的检查会列出新发现的岗位。
+### offerstar·中国稀土集团
+
+| 岗位名称 | 类别 | 地点 | 发布时间 | 标签 | 链接 |
+|---------|------|------|---------|------|------|
+| 中国稀土集团启动2027届秋季校园招聘 | - | 全国 | 11-03new | 聚合 | [查看](https://mp.weixin.qq.com/s/WKaAjE7XOsLb9WtLN6JQlQ) |
+
+### offerstar·乐其创新SmallRig
+
+| 岗位名称 | 类别 | 地点 | 发布时间 | 标签 | 链接 |
+|---------|------|------|---------|------|------|
+| 乐其创新SmalIRig 2027届校园招聘正式启动！ | 产品 | 深圳 | 11-03new | 聚合 | [查看](https://mp.weixin.qq.com/s/5CEVRPw_w-ncU1SqkD9E7Q) |
+
+### offerstar·深圳城安院
+
+| 岗位名称 | 类别 | 地点 | 发布时间 | 标签 | 链接 |
+|---------|------|------|---------|------|------|
+| 深圳城安院2027届校园招聘正式启动！ | - | 深圳 | 11-03new | 聚合 | [查看](https://mp.weixin.qq.com/s/sYU8ByWXPgo6SmmT2ty-Yg) |
+
+### offerstar·盒子科技
+
+| 岗位名称 | 类别 | 地点 | 发布时间 | 标签 | 链接 |
+|---------|------|------|---------|------|------|
+| iBOXAI2027届校园招聘开始啦！ | - | 深圳 | 11-03new | 聚合 | [查看](https://mp.weixin.qq.com/s/3iz19OiTOC0ycPyENLckCA?scene=1) |
 
 ## 📌 本次抓取到的存量岗位（不限岗位方向）
 
@@ -180,10 +202,11 @@
 - 数据分析师 ｜ 技术 ｜  ｜  `全职` [查看](https://campus.kuaishou.cn/recruit/campus/e/#/campus/jobs?recruitSubProjectCodes=20271779425607)
 - 数据PDE工程师-数据产品方向 ｜ 产品、技术 ｜  ｜  `全职` [查看](https://campus.kuaishou.cn/recruit/campus/e/#/campus/jobs?recruitSubProjectCodes=20271779425607)
 - 数据FDE工程师-数据研发方向 ｜ 技术 ｜  ｜  `全职` [查看](https://campus.kuaishou.cn/recruit/campus/e/#/campus/jobs?recruitSubProjectCodes=20271779425607)
+- AI应用开发工程师 ｜ 技术 ｜  ｜  `全职` [查看](https://campus.kuaishou.cn/recruit/campus/e/#/campus/jobs?recruitSubProjectCodes=20271779425607)
+- 用户运营 ｜ 运营 ｜  ｜  `全职` [查看](https://campus.kuaishou.cn/recruit/campus/e/#/campus/jobs?recruitSubProjectCodes=20271779425607)
 - UX设计师 ｜ 设计 ｜  ｜  `全职` [查看](https://campus.kuaishou.cn/recruit/campus/e/#/campus/jobs?recruitSubProjectCodes=20271779425607)
 - 行业产品运营 ｜ 产品、运营 ｜  ｜  `全职` [查看](https://campus.kuaishou.cn/recruit/campus/e/#/campus/jobs?recruitSubProjectCodes=20271779425607)
 - 行业商家运营 ｜ 电商、运营 ｜  ｜  `全职` [查看](https://campus.kuaishou.cn/recruit/campus/e/#/campus/jobs?recruitSubProjectCodes=20271779425607)
-- 用户运营 ｜ 运营 ｜  ｜  `全职` [查看](https://campus.kuaishou.cn/recruit/campus/e/#/campus/jobs?recruitSubProjectCodes=20271779425607)
 - 测试开发工程师 ｜ 技术 ｜  ｜  `全职` [查看](https://campus.kuaishou.cn/recruit/campus/e/#/campus/jobs?recruitSubProjectCodes=20271779425607)
 - 治理策略分析师 ｜  ｜  ｜  `全职` [查看](https://campus.kuaishou.cn/recruit/campus/e/#/campus/jobs?recruitSubProjectCodes=20271779425607)
 - AI Agent 全栈工程师-音视频方向 ｜ 技术 ｜  ｜  `全职` [查看](https://campus.kuaishou.cn/recruit/campus/e/#/campus/jobs?recruitSubProjectCodes=20271779425607)
@@ -205,7 +228,6 @@
 - 【快Star】AI Agent大模型算法工程师 ｜ 技术 ｜  ｜  `快Star/全职` [查看](https://campus.kuaishou.cn/recruit/campus/e/#/campus/jobs?recruitSubProjectCodes=20271779425607)
 - 【快Star】AI搜索算法工程师 ｜ 技术 ｜  ｜  `快Star/全职` [查看](https://campus.kuaishou.cn/recruit/campus/e/#/campus/jobs?recruitSubProjectCodes=20271779425607)
 - 【快Star】GenAI异构计算架构与优化工程师 ｜ 技术 ｜  ｜  `快Star/全职` [查看](https://campus.kuaishou.cn/recruit/campus/e/#/campus/jobs?recruitSubProjectCodes=20271779425607)
-- AI应用开发工程师 ｜ 技术 ｜  ｜  `全职` [查看](https://campus.kuaishou.cn/recruit/campus/e/#/campus/jobs?recruitSubProjectCodes=20271779425607)
 - 商业化销售运营专员 ｜ 电商、运营、市场 ｜  ｜  `全职` [查看](https://campus.kuaishou.cn/recruit/campus/e/#/campus/jobs?recruitSubProjectCodes=20271779425607)
 - Java开发工程师 ｜ 技术 ｜  ｜  `全职` [查看](https://campus.kuaishou.cn/recruit/campus/e/#/campus/jobs?recruitSubProjectCodes=20271779425607)
 - UX设计师-企业产品方向 ｜ 产品、设计 ｜  ｜  `全职` [查看](https://campus.kuaishou.cn/recruit/campus/e/#/campus/jobs?recruitSubProjectCodes=20271779425607)
@@ -445,26 +467,6 @@
 - 仓配物流管培生（区域业务） ｜ 区域业务 ｜ 全国多省区 ｜ 2026-09-14  [查看](https://careers.pddglobalhr.com/campus/grad/position/detail?id=b168e225-3034-4cac-8e3a-ea4aff372a67)
 - 质控管培生（区域业务） ｜ 区域业务 ｜ 全国多省区 ｜ 2026-09-14  [查看](https://careers.pddglobalhr.com/campus/grad/position/detail?id=1502839e-a636-46a8-856f-071c2542f3b7)
 - HR培训生（区域业务） ｜ 区域业务 ｜ 全国多省区 ｜ 2026-09-14  [查看](https://careers.pddglobalhr.com/campus/grad/position/detail?id=64fe882f-b4b6-4b8c-9931-7b336b18e818)
-
-**offerstar·vivo**
-
-- vivo2027届校园招聘设计专场来了！ ｜  ｜ 东莞深圳 ｜ 10-31 `聚合` [查看](https://mp.weixin.qq.com/s/KDL5idZkxTpLYENWug_KxQ)
-
-**offerstar·中建安装东北公司**
-
-- 中建安装东北公司2027届校园招聘开始啦！ ｜  ｜ 大连全国 ｜ 10-31 `聚合` [查看](https://mp.weixin.qq.com/s/YtWkpkW_kNxwT_ocAHRc2g)
-
-**offerstar·环波科技**
-
-- 环波科技2027届校园招聘 ｜  ｜ 深圳 ｜ 10-31 `聚合` [查看](https://mp.weixin.qq.com/s/Rvc1DfqeLZH9xiT8rtfINg)
-
-**offerstar·维谛技术**
-
-- 维谛技术(Vertiv)2027届秋季校园招聘持续开放中 ｜  ｜ 苏州深圳+5 ｜ 10-31 `聚合` [查看](https://mp.weixin.qq.com/s/ceP6q9jS7H9pXu5Lx2-C1g)
-
-**offerstar·锐澳酒业**
-
-- RIO2027管培生招募 ｜  ｜ 全国 ｜ 10-31 `聚合` [查看](https://mp.weixin.qq.com/s/ELZZ3391W_inddFkgB_lAQ)
 
 </details>
 
