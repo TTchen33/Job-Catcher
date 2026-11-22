@@ -1,6 +1,6 @@
-# 📋 秋招雷达日报 · 2026-11-21
+# 📋 秋招雷达日报 · 2026-11-22
 
-> 自动抓取于 2026-11-21 15:51 ｜ 关注方向：不限岗位方向 ｜ 目标城市：香港、深圳
+> 自动抓取于 2026-11-22 15:37 ｜ 关注方向：不限岗位方向 ｜ 目标城市：香港、深圳
 
 > 地点为空、全国或多地的岗位也会保留，需在官网确认是否开放香港或深圳。
 
@@ -423,20 +423,20 @@
 
 **小红书**
 
-- 【2027校招】数据仓库工程师-rednote ｜ 技术 ｜ 深圳市 ｜ 2026-11-21 `2027 校园招聘` [查看](https://job.xiaohongshu.com/campus/position)
-- 【2027校招】媒体网络研发工程师-CDN方向 ｜ 技术 ｜ 北京市，深圳市 ｜ 2026-11-21 `2027 校园招聘` [查看](https://job.xiaohongshu.com/campus/position)
-- 【2027校招】搜广推 × AI 应用工程师 ｜ 技术 ｜ 深圳市，北京市，上海市 ｜ 2026-11-21 `2027 校园招聘` [查看](https://job.xiaohongshu.com/campus/position)
-- 【REDstar】搜广推 × AI 应用工程师 ｜ 技术 ｜ 北京市，上海市，深圳市 ｜ 2026-11-21 `REDstar 顶尖人才计划` [查看](https://job.xiaohongshu.com/campus/position)
-- 【2027校招】机器学习框架工程师-搜广推方向 ｜ 技术 ｜ 北京市，上海市，深圳市 ｜ 2026-11-21 `2027 校园招聘` [查看](https://job.xiaohongshu.com/campus/position)
-- 【REDstar】机器学习框架工程师-搜广推方向 ｜ 技术 ｜ 北京市，上海市，深圳市 ｜ 2026-11-21 `REDstar 顶尖人才计划` [查看](https://job.xiaohongshu.com/campus/position)
-- 【2027校招】社区搜索算法工程师 ｜ 技术 ｜ 北京市，上海市，深圳市 ｜ 2026-11-21 `2027 校园招聘` [查看](https://job.xiaohongshu.com/campus/position)
-- 【2027校招】社区推荐算法工程师 ｜ 技术 ｜ 北京市，上海市，深圳市 ｜ 2026-11-21 `2027 校园招聘` [查看](https://job.xiaohongshu.com/campus/position)
-- 【REDstar】社区搜索算法工程师 ｜ 技术 ｜ 北京市，上海市，深圳市 ｜ 2026-11-21 `REDstar 顶尖人才计划` [查看](https://job.xiaohongshu.com/campus/position)
-- 【REDstar】社区推荐算法工程师 ｜ 技术 ｜ 北京市，上海市，深圳市 ｜ 2026-11-21 `REDstar 顶尖人才计划` [查看](https://job.xiaohongshu.com/campus/position)
-- 【2027校招】全栈工程师-直播业务 ｜ 技术 ｜ 深圳市，北京市，上海市 ｜ 2026-11-21 `2027 校园招聘` [查看](https://job.xiaohongshu.com/campus/position)
-- 【2027校招】Product Engineer-开发工程师-rednote国际化 ｜ 技术 ｜ 北京市，上海市，深圳市，新加坡 ｜ 2026-11-21 `2027 校园招聘` [查看](https://job.xiaohongshu.com/campus/position)
-- 【2027校招】视频编解码算法工程师 ｜ 技术 ｜ 北京市，上海市，深圳市 ｜ 2026-11-21 `2027 校园招聘` [查看](https://job.xiaohongshu.com/campus/position)
-- 【REDstar】视频编解码算法工程师 ｜ 技术 ｜ 北京市，上海市，深圳市 ｜ 2026-11-21 `REDstar 顶尖人才计划` [查看](https://job.xiaohongshu.com/campus/position)
+- 【2027校招】数据仓库工程师-rednote ｜ 技术 ｜ 深圳市 ｜ 2026-11-22 `2027 校园招聘` [查看](https://job.xiaohongshu.com/campus/position)
+- 【2027校招】媒体网络研发工程师-CDN方向 ｜ 技术 ｜ 北京市，深圳市 ｜ 2026-11-22 `2027 校园招聘` [查看](https://job.xiaohongshu.com/campus/position)
+- 【2027校招】搜广推 × AI 应用工程师 ｜ 技术 ｜ 深圳市，北京市，上海市 ｜ 2026-11-22 `2027 校园招聘` [查看](https://job.xiaohongshu.com/campus/position)
+- 【REDstar】搜广推 × AI 应用工程师 ｜ 技术 ｜ 北京市，上海市，深圳市 ｜ 2026-11-22 `REDstar 顶尖人才计划` [查看](https://job.xiaohongshu.com/campus/position)
+- 【2027校招】机器学习框架工程师-搜广推方向 ｜ 技术 ｜ 北京市，上海市，深圳市 ｜ 2026-11-22 `2027 校园招聘` [查看](https://job.xiaohongshu.com/campus/position)
+- 【REDstar】机器学习框架工程师-搜广推方向 ｜ 技术 ｜ 北京市，上海市，深圳市 ｜ 2026-11-22 `REDstar 顶尖人才计划` [查看](https://job.xiaohongshu.com/campus/position)
+- 【2027校招】社区搜索算法工程师 ｜ 技术 ｜ 北京市，上海市，深圳市 ｜ 2026-11-22 `2027 校园招聘` [查看](https://job.xiaohongshu.com/campus/position)
+- 【2027校招】社区推荐算法工程师 ｜ 技术 ｜ 北京市，上海市，深圳市 ｜ 2026-11-22 `2027 校园招聘` [查看](https://job.xiaohongshu.com/campus/position)
+- 【REDstar】社区搜索算法工程师 ｜ 技术 ｜ 北京市，上海市，深圳市 ｜ 2026-11-22 `REDstar 顶尖人才计划` [查看](https://job.xiaohongshu.com/campus/position)
+- 【REDstar】社区推荐算法工程师 ｜ 技术 ｜ 北京市，上海市，深圳市 ｜ 2026-11-22 `REDstar 顶尖人才计划` [查看](https://job.xiaohongshu.com/campus/position)
+- 【2027校招】全栈工程师-直播业务 ｜ 技术 ｜ 深圳市，北京市，上海市 ｜ 2026-11-22 `2027 校园招聘` [查看](https://job.xiaohongshu.com/campus/position)
+- 【2027校招】Product Engineer-开发工程师-rednote国际化 ｜ 技术 ｜ 北京市，上海市，深圳市，新加坡 ｜ 2026-11-22 `2027 校园招聘` [查看](https://job.xiaohongshu.com/campus/position)
+- 【2027校招】视频编解码算法工程师 ｜ 技术 ｜ 北京市，上海市，深圳市 ｜ 2026-11-22 `2027 校园招聘` [查看](https://job.xiaohongshu.com/campus/position)
+- 【REDstar】视频编解码算法工程师 ｜ 技术 ｜ 北京市，上海市，深圳市 ｜ 2026-11-22 `REDstar 顶尖人才计划` [查看](https://job.xiaohongshu.com/campus/position)
 - 【2027校招】AI视觉效果设计师（发布创意方向） ｜ 技术、设计 ｜ 北京市，深圳市 ｜ 2026-11-21 `2027 校园招聘` [查看](https://job.xiaohongshu.com/campus/position)
 
 **拼多多**
